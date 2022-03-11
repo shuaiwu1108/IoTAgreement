@@ -3,3 +3,6 @@
 ## modbus
 ## mqtt
 ## amqp
+## OPC UA
+## BACnet
+## CoAP
